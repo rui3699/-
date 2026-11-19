@@ -1,0 +1,14 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 系统/临时文件
+*.log
+*.tmp
+~$*
